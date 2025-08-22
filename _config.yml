@@ -4,7 +4,7 @@ SEOTitle: 重阳的博客 | CS Blog
 header-img: img/post-bg-me.jpg
 email: aron.c.shi@gmail.com
 description: "I'll share my recent work here."
-keyword: "CS, CS Blog, 重阳的博客, qiubaiying, 石重阳, iOS, Apple, iPhone"
+keyword: "CS, CS Blog, 重阳的博客, 石重阳"
 url: "http://aronyoung414.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/aronyoung414/aronyoung414.github.io.git" # you code repository
@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "学术主页(Homepage)",
+        href: "https://aronchongyangshi.github.io/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "GitHub",
+        href: "https://github.com/AronYoung414"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google scholar",
+        href: "https://scholar.google.com/citations?user=Thbx0TkAAAAJ&hl=en"
     }
 ]
