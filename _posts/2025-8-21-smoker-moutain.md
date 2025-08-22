@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      七律·登大烟山
+title:      登大烟山
 subtitle:   Information Theortic Opacity Enforcement Techniques
 date:       2024-12-30
 author:     CS
@@ -10,7 +10,7 @@ tags:
     - poem
 ---
 
-## 七律·登大烟山
+## 登大烟山
 
 一骑绝尘跃佐州，天光开云现山头；
 山高路转穿云雾，凌霄驱车斜坡陡。
