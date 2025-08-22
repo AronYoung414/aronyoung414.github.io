@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      登大烟山
-subtitle:   Information Theortic Opacity Enforcement Techniques
+subtitle:   于佐治亚州大烟山顶书
 date:       2024-12-30
 author:     CS
 header-img: img/post-bg-cook.jpg
