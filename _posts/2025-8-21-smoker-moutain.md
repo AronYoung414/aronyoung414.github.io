@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      登大烟山
-subtitle:   于佐治亚州大烟山顶书
+subtitle:   甲辰年秋于佐治亚州大烟山顶书
 date:       2024-12-30
-author:     CS
+author:     向阳
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
